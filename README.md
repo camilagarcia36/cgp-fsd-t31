@@ -1,2 +1,3 @@
-# cgp-fsd-t31
- Javascript II
+# JAVASCRIPT II
+
+##EXERCICES 11 TO 16
