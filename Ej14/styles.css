@@ -1,0 +1,28 @@
+*{
+background-color: beige;
+}
+
+
+.calculadoradiv{
+    border: 5px black solid;
+    width: 155px;
+}
+
+#calculadora{   
+    text-align: center;
+    margin: 0 auto;
+    
+}
+
+#calc{
+    border: solid 3px;
+    text-align: center;
+}
+
+.botones{
+    background-color: rgb(207, 154, 101);
+}
+
+#C{
+    background-color: gray;
+}
