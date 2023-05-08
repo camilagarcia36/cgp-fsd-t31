@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#central {
+    width: 30%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#central>img {
+    width: 400px;
+    height: 200px;
+}
+
+#central>p {
+    margin: 15px 0;
+    font-size: 24px;
+}
+
+#fotos {
+    
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#fotos>img {
+    width: 50px;
+    height: 30px;
+    margin: 3px 0;
+    cursor: pointer;
+}
